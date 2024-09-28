@@ -27,7 +27,7 @@
 
 ## 🎥 Demo
 
-![Screenshot do Chat](https://via.placeholder.com/600x400) 
+![Screenshot do Chat](https://youtu.be/9Ar_IaBvmt8) 
 
 *Exemplo de interface do usuário do Quick Chat.*
 
