@@ -27,7 +27,7 @@
 
 ## 🎥 Demo
 
-![Screenshot do Chat](https://youtu.be/9Ar_IaBvmt8) 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9Ar_IaBvmt8/0.jpg)](https://www.youtube.com/watch?v=9Ar_IaBvmt8)
 
 *Exemplo de interface do usuário do Quick Chat.*
 
