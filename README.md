@@ -20,7 +20,6 @@
 - [🖥️ Como Usar](#️-como-usar)
 - [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 - [🤝 Contribuição](#-contribuição)
-- [📜 Licença](#-licença)
 - [✉️ Contato](#️-contato)
 
 ---
