@@ -136,12 +136,6 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ---
 
-## 📜 Licença
-
-Este projeto está licenciado sob a licença MIT.
-
----
-
 ## ✉️ Contato
 
 Entre em contato via **[E-mail](mailto:joaocarvalhop7@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/joaocarvalhop/)**.
